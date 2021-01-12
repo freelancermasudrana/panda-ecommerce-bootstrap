@@ -1,0 +1,13 @@
+.panda-card{
+    border:0;
+}
+.panda-card-footer{
+    background-color: white;;
+    border:0;
+}
+.panda-bg{
+    background-color: #fceae8;
+}
+.panda-img img{
+    height: 100px;
+}
